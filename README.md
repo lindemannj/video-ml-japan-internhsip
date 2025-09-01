@@ -20,7 +20,7 @@ During my internship, the primary goal was to explore **video-based ripeness est
 The results of the project, including methodology, experiments, and insights, are summarized in the **final presentation**.  
 You can find the presentation PDF in this repository:  
 
-[View Presentation](MuroranIT Presentation.pdf))
+[View Presentation](MuroranIT Presentation.pdf)
 
 ---
 
